@@ -28,3 +28,6 @@ Read frames in a loop, preprocess them, and find contours.
 Based on the contours' area and circularity, classify them as different denominations of money and update the total money.
 Display the processed image with the detected contours and the total money overlaid on it.
 Exit the loop if the 'q' key is pressed.
+
+
+*You need to change the area size of the coin according to your preferences otherwise the result will be incorrect.*
